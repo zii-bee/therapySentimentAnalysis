@@ -33,7 +33,3 @@ sid = SentimentIntensityAnalyzer()
 df = sentiment_analysis("data.csv")
 print(df.head())
 ```
-
-## License  
-MIT License.
-
